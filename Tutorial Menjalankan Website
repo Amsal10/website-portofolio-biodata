@@ -1,0 +1,4 @@
+1. Buka folder menggunakan text editor
+2. Jalankan terminal
+3. Install npm dengan mengetikkan "npm install"
+4. Ketikan "npm start" untuk menjalankan web
